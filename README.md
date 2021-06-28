@@ -1,2 +1,3 @@
 # DiscordBot
-Bot de música para discord.
+Bot de música para discord. Atualmente em desenvolvimento.
+
